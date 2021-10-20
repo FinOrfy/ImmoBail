@@ -20,7 +20,7 @@ Compiler les dépendances front-end
 
 ```yarn encore dev```
 
-Enfin éventuellement si les pages ne s'affichent pas :
+Si les pages ne s'affichent pas dans le navigateur
 
 ```composer require symfony/apache-pack```
 installe le pack apach et crée un fichier .htaccess dans le dossier public/
